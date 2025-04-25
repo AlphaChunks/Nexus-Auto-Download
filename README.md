@@ -4,3 +4,5 @@ It detects the photo 'nexus.png' in the same directory as the script, and then m
 
 The key to stop the program is '#' by default but can be easily changed.
 You can also configure the photo it detects by changing the name it looks for in the script and replacing the photo.
+
+To start the program just have python installed, install the dependencies via install-dependencies.py (if you don't have them) and then run main.py 
